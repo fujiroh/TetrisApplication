@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\bin\Debug\TaskPlacer.exe.config
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\bin\Debug\TaskPlacer.exe
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\bin\Debug\TaskPlacer.pdb
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\obj\Debug\TaskPlacer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\obj\Debug\TaskPlacer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\obj\Debug\TaskPlacer.Properties.Resources.resources
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\obj\Debug\TaskPlacer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\obj\Debug\TaskPlacer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\obj\Debug\TaskPlacer.exe
+C:\Users\User\Desktop\git\TaskPlacer\TaskPlacer\obj\Debug\TaskPlacer.pdb
